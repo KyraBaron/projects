@@ -1,0 +1,49 @@
+p {
+  margin: 0;
+  padding: 10px;
+  max-width: 100px;
+  display: inline-block;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 30px;
+  position: relative;
+}
+
+.t20-r30 {
+  top: 20px;
+  right: 30px;
+  background-color: LemonChiffon
+}
+
+.t40-l10 {
+  top: 40px;
+  left: 10px;
+  background-color: HoneyDew
+  border-right-color: DarkSeaGreen;
+}
+
+.b15-l30 {
+  bottom: 15px;
+  left: 30px;
+  background-color: Cornsilk
+}
+
+.b25-r20 {
+  bottom: 25px;
+  right: 20px;
+  background-color: Lavender
+}
+
+.lightpink {
+  color: lightpink;
+  background-color: LightBlue
+}
+.gold {
+  color: LightPink;
+}
+.skyblue {
+  color: DarkSeaGreen;
+}
+.forestgreen {
+  color: LightSkyBlue;
+}

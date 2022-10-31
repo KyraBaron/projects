@@ -1,0 +1,105 @@
+p {
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;
+}
+
+
+.sans-serif {
+  font-family: cursive;
+}
+
+.cursive {
+  font-family: Tahoma;
+}
+
+.fantasy {
+  font-family: fantasy;
+}
+
+.monospace {
+  font-family: monospace;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.line-through {
+  text-decoration: red wavy line-through;
+}
+
+.underline-overline {
+  text-decoration: underline overline;
+}
+
+.dotted-underline {
+  text-decoration: 3px dotted underline;
+}
+
+.word-spacing {
+  word-spacing: 15px;
+}
+
+.letter-spacing {
+  letter-spacing: -2px;
+}
+
+.color {
+  color: ForestGreen;
+}
+
+.background-color {
+  background-color: Yellow;
+}
+
+.solid-text-shadow {
+  text-shadow: 3px 3px Black;
+}
+
+.soft-text-shadow {
+  text-shadow: 1px 1px 2px HotPink, -2px -2px 4px Orange, 0px 0px 12px Blue;
+}
+
+  .Kyra-Baron {
+    background-color: lightblue;
+}
+
+  .Daisy-brought {
+    background-color: lightblue;
+}
+
+.text-lamp-water {
+  text-shadow: 3px 3px Black;
+}
+
+.Blueberry-strawberry {
+  color: LightPink;
+  background-color: lightblue;
+}
+
+.six-seven {
+  background-color: cadetblue;
+}
+
+.Paper-Napkin {
+  color: MediumPurple;
+  background-color: LightCoral ;
+}
+
+.nine-ten {
+  color: OrangeRed;
+  background-color: PaleGoldenRod;
